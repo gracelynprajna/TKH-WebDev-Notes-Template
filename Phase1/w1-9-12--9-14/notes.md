@@ -1,7 +1,7 @@
 # Week 1
 ## [september]/[13] - [september]/[15]
 
-# Topic:
+# Topic: orientation
 
 ___
 
