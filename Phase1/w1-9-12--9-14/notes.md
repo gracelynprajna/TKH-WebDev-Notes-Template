@@ -52,24 +52,24 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
-#### 🗒️Notes from class:
+### Day 3, [09]/[15]
+#### 🗒️Notes from class: stay positive and you can achieve what you want!
 
-#### 📚Resources:
+#### 📚Resources: linkedin 
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. linkedin is very useful in looking for jobs and to network
+2. networking is very important and can be very helpful in order to get jobs
+3. Many tech companies reside in NY, Texas, and California
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to find a mentor
+2. How to network 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Not having trouble understanding anything
  
 
