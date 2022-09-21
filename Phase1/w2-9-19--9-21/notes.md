@@ -29,26 +29,26 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [september]/[20] 
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: 
 
-#### 📚Resources:
+#### 📚Resources: google classroom, theodinproject
 
 
-#### 💭Daily Reflection:
+#### 💭Daily Reflection: 
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to make files on my computer locally and push it to github
+2. how to fork and clone
+3. helping other people troubleshoot some problems
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Still, is there an easier to way to make a repo and link it to our notes
+2. nothing else
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. how to overcome some errors on github/terminal
 
 ___
 
